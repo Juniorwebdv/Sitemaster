@@ -212,7 +212,7 @@ text-align: center;
 .logo{
 width: 150px;
 height: 80px;
-background: url("../logo1.png");
+background: url("logo1.png");
 margin-top: -22px;
 background-size: 130px;
 background-repeat: no-repeat;
@@ -1214,7 +1214,19 @@ background: ;
 
 @media only screen and (max-width: 380px){
 
+.logo{
+width: 150px;
+height: 80px;
+background: url("logo1.png");
+margin-top: -22px;
+background-size: 130px;
+background-repeat: no-repeat;
+background-position: center;
+background-color: none;
 
+
+
+}
 
 
 .container-fluid{
