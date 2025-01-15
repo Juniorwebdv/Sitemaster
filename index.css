@@ -679,7 +679,19 @@ height: auto;
 
 
 }
+.logo{
+width: 150px;
+height: 80px;
+background-image: url('logo1.png');
+margin-top: -22%;
+background-size: 130px;
+background-repeat: no-repeat;
+background-position: center;
+background-color: none;
 
+
+
+}
 }
 
 
