@@ -110,7 +110,7 @@ background-size: cover;
 }
 
  .navbar-default{
-background:url('../img/gradient.jpg'); 
+background-image:url('gradient.jpg'); 
 border-bottom: none;
 padding: 30px;
 background-position: left left;
@@ -227,7 +227,7 @@ text-align: center;
 .logo{
 width: 150px;
 height: 80px;
-background: url('../img/logo1.png');
+background-image: url('logo1.png');
 margin-top: -22px;
 background-size: 130px;
 background-repeat: no-repeat;
@@ -299,7 +299,7 @@ font-size: 15px;
 #cover{
 width: auto;
 height: 48%;
-background:url('../img/chef.jpg');
+background-image:url('chef.jpg');
 background-size: 514px;
 background-position: center;
 max-width: 100%;
@@ -364,7 +364,7 @@ margin-bottom: 3%;
 footer{
 height: auto;
 width: auto;
-background:url('http://wallpapercave.com/wp/ROBntMb.jpg'); 
+background-image:url('http://wallpapercave.com/wp/ROBntMb.jpg'); 
 color:white;
 background-position: center;
 background-repeat: no-repeat;
@@ -402,7 +402,7 @@ margin: 26px;
 .logo{
 width: 150px;
 height: 80px;
-background: url('../img/logo1.png');
+background-image: url('logo1.png');
 margin-top: -22%;
 background-size: 130px;
 background-repeat: no-repeat;
@@ -460,7 +460,7 @@ display: none;
 .logo{
 width: 120px;
 height: 80px;
-background: url('../img/logo1.png');
+background-image: url('logo1.png');
 margin-top: -23%;
 background-size: 97px;
 background-repeat: no-repeat;
