@@ -110,7 +110,7 @@ background-size: cover;
 }
 
  .navbar-default{
-background:url('gradient.jpg'); 
+background-image:url("gradient.jpg"); 
 border-bottom: none;
 padding: 30px;
 background-position: left left;
@@ -227,7 +227,7 @@ text-align: center;
 .logo{
 width: 150px;
 height: 80px;
-background: url('logo1.png');
+background-image: url("logo1.png");
 margin-top: -22px;
 background-size: 130px;
 background-repeat: no-repeat;
@@ -294,7 +294,7 @@ color: ;
 #cover{
 width: auto;
 height: 42%;
-background:url('contact.jpg');
+background-image:url("contact.jpg");
 background-size: cover;
 background-position:top center;
 max-width: 100%;
@@ -322,7 +322,7 @@ color: red;
 footer{
 height: auto;
 width: auto;
-background:url('gradient.jpg'); 
+background-image:url("gradient.jpg"); 
 color:white;
 background-position: center;
 background-repeat: no-repeat;
