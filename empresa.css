@@ -110,7 +110,7 @@ background-size: cover;
 }
 
  .navbar-default{
-background:url('gradient.jpg'); 
+background-image:url("gradient.jpg"); 
 border-bottom: none;
 padding: 30px;
 background-position: left left;
