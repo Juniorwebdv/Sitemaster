@@ -110,7 +110,7 @@ background-size: cover;
 }
 
  .navbar-default{
-background-image:url ('gradient.jpg'); 
+background-image:url ('http://wallpapercave.com/wp/ROBntMb.jpg'); 
 border-bottom: none;
 padding: 30px;
 background-position: left left;
@@ -227,7 +227,7 @@ text-align: center;
 .logo{
 width: 150px;
 height: 80px;
-background: url('logo1.png');
+background-imge: url('logo1.png');
 margin-top: -22px;
 background-size: 130px;
 background-repeat: no-repeat;
