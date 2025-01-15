@@ -110,7 +110,7 @@ background-size: cover;
 }
 
  .navbar-default{
-background:url('../img/gradient.jpg'); 
+background:url('img/gradient.jpg'); 
 border-bottom: none;
 padding: 30px;
 background-position: left left;
@@ -227,7 +227,7 @@ text-align: center;
 .logo{
 width: 150px;
 height: 80px;
-background: url('../img/logo1.png');
+background: url('img/logo1.png');
 margin-top: -22px;
 background-size: 130px;
 background-repeat: no-repeat;
@@ -294,7 +294,7 @@ color: ;
 #cover{
 width: auto;
 height: 42%;
-background:url('../img/contact.jpg');
+background:url('img/contact.jpg');
 background-size: cover;
 background-position:top center;
 max-width: 100%;
@@ -322,7 +322,7 @@ color: red;
 footer{
 height: auto;
 width: auto;
-background:url('../img/gradient.jpg'); 
+background:url('img/gradient.jpg'); 
 color:white;
 background-position: center;
 background-repeat: no-repeat;
@@ -380,7 +380,7 @@ max-width: 100%;
 .logo{
 width: 150px;
 height: 80px;
-background: url('../img/logo1.png');
+background: url('img/logo1.png');
 margin-top: -22%;
 background-size: 130px;
 background-repeat: no-repeat;
@@ -442,7 +442,7 @@ display: none;
 .logo{
 width: 120px;
 height: 80px;
-background: url('../img/logo1.png');
+background: url('img/logo1.png');
 margin-top: -23%;
 background-size: 97px;
 background-repeat: no-repeat;
